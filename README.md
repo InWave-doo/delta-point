@@ -1,2 +1,2 @@
-# inwave-data-connector
-InWave Data Connector — Shopify analytics integration
+# Delta Point
+Delta Point — Shopify analytics integration
